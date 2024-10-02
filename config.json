@@ -1,0 +1,7 @@
+{
+ "url-backend": "127.0.0.1",
+ "port": 9999,
+ "data-db-connection": "mongodb+srv://junioribero:escorpion920124@cluster0.vpj5g.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "votacion"
+
+}
